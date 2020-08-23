@@ -3722,9 +3722,6 @@
   <data name="&gt;&gt;gbGrbl.ZOrder" xml:space="preserve">
     <value>7</value>
   </data>
-  <data name="tbWorkZ.Enabled" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
   <data name="tbWorkZ.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 45pt, style=Bold</value>
   </data>
@@ -3794,9 +3791,6 @@
   <data name="&gt;&gt;tbMachZ.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <data name="Panel5.Enabled" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
   <data name="Panel5.Location" type="System.Drawing.Point, System.Drawing">
     <value>48, 179</value>
   </data>
@@ -3817,9 +3811,6 @@
   </data>
   <data name="&gt;&gt;Panel5.ZOrder" xml:space="preserve">
     <value>0</value>
-  </data>
-  <data name="tbWorkY.Enabled" type="System.Boolean, mscorlib">
-    <value>False</value>
   </data>
   <data name="tbWorkY.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 45pt, style=Bold</value>
@@ -3890,9 +3881,6 @@
   <data name="&gt;&gt;tbMachY.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <data name="Panel4.Enabled" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
   <data name="Panel4.Location" type="System.Drawing.Point, System.Drawing">
     <value>48, 91</value>
   </data>
@@ -3950,9 +3938,6 @@
   <data name="&gt;&gt;tbMachX.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="tbWorkX.Enabled" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
   <data name="tbWorkX.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 45pt, style=Bold</value>
   </data>
@@ -3985,9 +3970,6 @@
   </data>
   <data name="&gt;&gt;tbWorkX.ZOrder" xml:space="preserve">
     <value>1</value>
-  </data>
-  <data name="Panel3.Enabled" type="System.Boolean, mscorlib">
-    <value>False</value>
   </data>
   <data name="Panel3.Location" type="System.Drawing.Point, System.Drawing">
     <value>48, 3</value>
@@ -6426,6 +6408,57 @@
   <data name="&gt;&gt;Label42.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
+  <data name="Label52.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Label52.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Label52.Location" type="System.Drawing.Point, System.Drawing">
+    <value>39, 211</value>
+  </data>
+  <data name="Label52.Size" type="System.Drawing.Size, System.Drawing">
+    <value>80, 13</value>
+  </data>
+  <data name="Label52.TabIndex" type="System.Int32, mscorlib">
+    <value>26</value>
+  </data>
+  <data name="Label52.Text" xml:space="preserve">
+    <value>Round to Digits</value>
+  </data>
+  <data name="&gt;&gt;Label52.Name" xml:space="preserve">
+    <value>Label52</value>
+  </data>
+  <data name="&gt;&gt;Label52.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label52.Parent" xml:space="preserve">
+    <value>gbSettingsMisc</value>
+  </data>
+  <data name="&gt;&gt;Label52.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="tbTruncationDigits.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 208</value>
+  </data>
+  <data name="tbTruncationDigits.Size" type="System.Drawing.Size, System.Drawing">
+    <value>26, 20</value>
+  </data>
+  <data name="tbTruncationDigits.TabIndex" type="System.Int32, mscorlib">
+    <value>24</value>
+  </data>
+  <data name="&gt;&gt;tbTruncationDigits.Name" xml:space="preserve">
+    <value>tbTruncationDigits</value>
+  </data>
+  <data name="&gt;&gt;tbTruncationDigits.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbTruncationDigits.Parent" xml:space="preserve">
+    <value>gbSettingsMisc</value>
+  </data>
+  <data name="&gt;&gt;tbTruncationDigits.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
   <data name="tbSettingsDefaultExt.Location" type="System.Drawing.Point, System.Drawing">
     <value>12, 120</value>
   </data>
@@ -6445,7 +6478,7 @@
     <value>gbSettingsMisc</value>
   </data>
   <data name="&gt;&gt;tbSettingsDefaultExt.ZOrder" xml:space="preserve">
-    <value>0</value>
+    <value>2</value>
   </data>
   <data name="Label5.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -6475,7 +6508,7 @@
     <value>gbSettingsMisc</value>
   </data>
   <data name="&gt;&gt;Label5.ZOrder" xml:space="preserve">
-    <value>1</value>
+    <value>3</value>
   </data>
   <data name="Label6.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -6505,7 +6538,7 @@
     <value>gbSettingsMisc</value>
   </data>
   <data name="&gt;&gt;Label6.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>4</value>
   </data>
   <data name="tbSettingsStartupDelay.Location" type="System.Drawing.Point, System.Drawing">
     <value>12, 94</value>
@@ -6526,7 +6559,7 @@
     <value>gbSettingsMisc</value>
   </data>
   <data name="&gt;&gt;tbSettingsStartupDelay.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>5</value>
   </data>
   <data name="cbSettingsLeftHanded.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -6556,7 +6589,7 @@
     <value>gbSettingsMisc</value>
   </data>
   <data name="&gt;&gt;cbSettingsLeftHanded.ZOrder" xml:space="preserve">
-    <value>4</value>
+    <value>6</value>
   </data>
   <data name="cbSettingsConnectOnLoad.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -6589,7 +6622,7 @@
     <value>gbSettingsMisc</value>
   </data>
   <data name="&gt;&gt;cbSettingsConnectOnLoad.ZOrder" xml:space="preserve">
-    <value>5</value>
+    <value>7</value>
   </data>
   <data name="cbSettingsPauseOnError.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -6619,7 +6652,7 @@
     <value>gbSettingsMisc</value>
   </data>
   <data name="&gt;&gt;cbSettingsPauseOnError.ZOrder" xml:space="preserve">
-    <value>6</value>
+    <value>8</value>
   </data>
   <data name="cbStatusPollEnable.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -6649,7 +6682,7 @@
     <value>gbSettingsMisc</value>
   </data>
   <data name="&gt;&gt;cbStatusPollEnable.ZOrder" xml:space="preserve">
-    <value>7</value>
+    <value>9</value>
   </data>
   <data name="btnSettingsRefreshMisc.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -6676,7 +6709,7 @@
     <value>gbSettingsMisc</value>
   </data>
   <data name="&gt;&gt;btnSettingsRefreshMisc.ZOrder" xml:space="preserve">
-    <value>8</value>
+    <value>10</value>
   </data>
   <data name="Label37.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -6706,7 +6739,7 @@
     <value>gbSettingsMisc</value>
   </data>
   <data name="&gt;&gt;Label37.ZOrder" xml:space="preserve">
-    <value>9</value>
+    <value>11</value>
   </data>
   <data name="Label36.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -6736,7 +6769,7 @@
     <value>gbSettingsMisc</value>
   </data>
   <data name="&gt;&gt;Label36.ZOrder" xml:space="preserve">
-    <value>10</value>
+    <value>12</value>
   </data>
   <data name="tbSettingsRBuffSize.Location" type="System.Drawing.Point, System.Drawing">
     <value>12, 68</value>
@@ -6757,7 +6790,7 @@
     <value>gbSettingsMisc</value>
   </data>
   <data name="&gt;&gt;tbSettingsRBuffSize.ZOrder" xml:space="preserve">
-    <value>11</value>
+    <value>13</value>
   </data>
   <data name="tbSettingsQSize.Location" type="System.Drawing.Point, System.Drawing">
     <value>12, 42</value>
@@ -6778,7 +6811,7 @@
     <value>gbSettingsMisc</value>
   </data>
   <data name="&gt;&gt;tbSettingsQSize.ZOrder" xml:space="preserve">
-    <value>12</value>
+    <value>14</value>
   </data>
   <data name="Label26.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -6808,7 +6841,7 @@
     <value>gbSettingsMisc</value>
   </data>
   <data name="&gt;&gt;Label26.ZOrder" xml:space="preserve">
-    <value>13</value>
+    <value>15</value>
   </data>
   <data name="tbSettingsPollRate.Location" type="System.Drawing.Point, System.Drawing">
     <value>12, 19</value>
@@ -6829,7 +6862,7 @@
     <value>gbSettingsMisc</value>
   </data>
   <data name="&gt;&gt;tbSettingsPollRate.ZOrder" xml:space="preserve">
-    <value>14</value>
+    <value>16</value>
   </data>
   <data name="gbSettingsMisc.Location" type="System.Drawing.Point, System.Drawing">
     <value>362, 234</value>
@@ -10839,6 +10872,9 @@
         f9DFFn/bz1B/2s+MfdvPq3/bz6x/2s6SftzOWX/ayBz///8BAAAAAAAAAAAAAAAA4AcAAMADAACAAQAA
         AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIABAADAAwAA4AcAAA==
 </value>
+  </data>
+  <data name="$this.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
   </data>
   <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing">
     <value>1159, 766</value>
